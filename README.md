@@ -1,5 +1,5 @@
 # Universal SafetyNet Fixer
-![Repo Banner](https://user-images.githubusercontent.com/87353286/144381080-faf8e557-7909-43a1-a8e2-208936e5a8f8.png)
+![Repo Banner](https://nooberinfo.com/wp-content/uploads/2020/12/SaftyNET-8-768x768.png)
 Magisk module to work around Google's SafetyNet attestation.
 
 This module works around hardware attestation and recent updates to SafetyNet CTS profile checks. You must already be able to pass basic CTS profile attestation, which requires a valid combination of device and model names, build fingerprints, and security patch levels.
