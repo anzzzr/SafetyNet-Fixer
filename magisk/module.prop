@@ -4,4 +4,3 @@ version=v2.2.1
 versionCode=20201
 author=anzzzr
 description=A universal fix for SafetyNet on Android 8–12 devices with hardware attestation and unlocked bootloaders.
-updateJson=https://raw.githubusercontent.com/kdrag0n/safetynet-fix/master/update.json
