@@ -1,5 +1,5 @@
 # Universal SafetyNet Fixer
-![Repo Banner](https://nooberinfo.com/wp-content/uploads/2020/12/SaftyNET-8-768x768.png)
+![Repo Banner](https://magiskroot.net/wp-content/uploads/2022/08/download-universal-safetynet-fix-magisk-module.webp)
 
 Magisk module to work around Google's SafetyNet attestation.
 
